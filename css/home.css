@@ -75,3 +75,7 @@ h3{
     left: 45%;
 }
 
+iframe{
+    height: 700px;
+    width: 100%;
+}
